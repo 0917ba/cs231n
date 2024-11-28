@@ -8,7 +8,7 @@ The solutions will be uploaded incrementally as I complete each assignment.
 
 ## Assignment 1
 
-- Q1: k-Nearest Neighbor classifier (Not done)
+- Q1: k-Nearest Neighbor classifier (Done)
 - Q2: Training a Support Vector Machine (Not done)
 - Q3: Implement a Softmax classifier (Not done)
 - Q4: Two-Layer Neural Network (Not done)
