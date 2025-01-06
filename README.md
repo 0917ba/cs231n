@@ -10,7 +10,7 @@ The solutions will be uploaded incrementally as I complete each assignment.
 
 - Q1: k-Nearest Neighbor classifier (Done)
 - Q2: Training a Support Vector Machine (Done)
-- Q3: Implement a Softmax classifier (Not done)
+- Q3: Implement a Softmax classifier (Done)
 - Q4: Two-Layer Neural Network (Not done)
 - Q5: Higher Level Representations: Image Features (Not done)
 
